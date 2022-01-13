@@ -40,7 +40,7 @@
 - ITIL Foundation
 
 ### Project Management
-- CAPM (Upgrade to PMP Summer 2022)
+- Project Management Institute: CAPM (Upgrade to PMP Summer 2022)
 - Scrum PSM I & II
 - Scrum Kanban
 
