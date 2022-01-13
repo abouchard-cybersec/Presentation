@@ -45,7 +45,7 @@
 - Scrum Kanban
 
 ### Technical Infrastructure
-- Vmware
+- Vmware (v7: Advanced Professionnal)
 - AWS
 - SAN (NetApp)
 - Applied Computer Science Certificate (Univeristy of Montreal)
