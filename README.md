@@ -31,3 +31,33 @@
 | CR500 | Sécurité des systèmes de contrôle industriels | Security of Industrial Controls |
 | CR510 | Architecture des réseaux                      | Network Architecture |
 | CR520 | Intégration de la cybersécurité               | Integration |
+
+## Other Diplomas and Certifications
+
+### IT Management and Governance
+- TOGAF Certified
+- COBIT 2019
+- ITIL Foundation
+
+### Project Management
+- CAPM (Upgrade to PMP Summer 2022)
+- Scrum PSM I & II
+- Scrum Kanban
+
+### Technical Infrastructure
+- Vmware
+- AWS
+- SAN (NetApp)
+- Applied Computer Science Certificate (Univeristy of Montreal)
+
+### Cybersecurity 
+Upcoming:
+- cism, crisc, cisa, cgeit
+- cissp
+
+### Data Science/Business Analytics
+- Business Analytics Certificate (HEC - University of Montreal)
+- Harvard Data Science Professional Certificate
+- MIT Computational Thinking Using Python
+- IBM Deep Learning Professional Certificate
+- IVADO/MILA Introduction to Deep Learning
