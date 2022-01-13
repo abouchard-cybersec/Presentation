@@ -52,8 +52,10 @@
 
 ### Cybersecurity 
 Upcoming:
-- cism, crisc, cisa, cgeit
-- cissp
+- ISACA: cism, crisc, cisa, cgeit
+- ISC2: cissp
+- GIAC
+- Offensive Security
 
 ### Data Science/Business Analytics
 - Business Analytics Certificate (HEC - University of Montreal)
