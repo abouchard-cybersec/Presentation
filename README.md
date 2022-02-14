@@ -46,9 +46,9 @@
 - Scrum Kanban
 
 ### Technical Infrastructure
-- Vmware (v7: Advanced Professionnal)
-- AWS
-- SAN (NetApp)
+- Vmware (v7: Profesionnal and Advanced Professionnal)
+- Amazon Web Services
+- NetApp Storage
 - Applied Computer Science Certificate (Univeristy of Montreal)
 
 ### Cybersecurity 
