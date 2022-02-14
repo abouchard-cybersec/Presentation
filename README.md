@@ -55,7 +55,6 @@ courses or even a program (sometimes not even degree-granting) but not to the ex
 
 ### Cybersecurity 
 **Upcoming**:
-- PMP
 - ISC2: cissp
 - ISACA: cism, crisc, cisa
 - GIAC
