@@ -64,3 +64,4 @@
 - MIT Computational Thinking Using Python
 - IBM Deep Learning Professional Certificate
 - IVADO/MILA Introduction to Deep Learning
+- ~10 programs on Data Camp (ML Engineer with Python, R, etc.)
