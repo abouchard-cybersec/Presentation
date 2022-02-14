@@ -2,7 +2,7 @@
 ![Polymtl](https://www.canadianconsultingengineer.com/wp-content/uploads/2020/12/polytechnique_genie_gauche_eng_cmyk-copy.jpg)
 
 Only place in my area offering 4 certificates in cybersecurity (more than 40 specialized courses). Some schools do offer some
-courses or even a program (sometimes not even degree-granting) but not to the extent of what is offered at Poly. 
+courses or even a program (mostly non degree-granting) but not to the extent of what is offered at Poly.  
 
 ## CyberSecurity - Operations and Analysis
 
