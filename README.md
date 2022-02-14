@@ -35,9 +35,10 @@
 ## Other Diplomas and Certifications
 
 ### IT Management and Governance
-- TOGAF Certified
+- OCEG Certified GRC Professional (GRCP)
+- TOGAF 9.2 Certified
 - COBIT 2019
-- ITIL Foundation
+- ITIL v3 2011 Foundation
 
 ### Project Management
 - Project Management Institute: CAPM (Upgrade to PMP Summer 2022)
@@ -51,11 +52,11 @@
 - Applied Computer Science Certificate (Univeristy of Montreal)
 
 ### Cybersecurity 
-Upcoming:
-- ISACA: cism, crisc, cisa, cgeit
+**Upcoming**:
+- PMP
 - ISC2: cissp
+- ISACA: cism, crisc, cisa
 - GIAC
-- Offensive Security
 
 ### Data Science/Business Analytics
 - Business Analytics Certificate (HEC - University of Montreal)
