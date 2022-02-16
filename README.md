@@ -4,6 +4,8 @@
 Only place in my area offering 4 certificates in cybersecurity (more than 40 specialized courses). Some schools do offer some
 courses or even a program (mostly non degree-granting) but not to the extent of what is offered at Poly.  
 
+This is the most serious bachelor in cybersecurity in my area, some may touch the subject but this one IS the subject.
+
 ## CyberSecurity - Operations and Analysis
 
 | Sigle | Name(fr)                                   | Name(en)                                     |
