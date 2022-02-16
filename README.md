@@ -6,6 +6,22 @@ courses or even a program (mostly non degree-granting) but not to the extent of 
 
 This is the most serious bachelor in cybersecurity in my area, some may touch the subject but this one IS the subject.
 
+## CyberSecurity - Architecture and Management
+| Sigle | Name(fr)                                      | Name(en)                                     |
+|:----- |:--------------------------------------------- | :------------------------------------------- |
+| CF170 | Gestion de risques de l'information           | Information Risk Management |
+| CR320 | Gouvernance de la cybersécurité               | Cybersecurity Governance |
+| CR335 | Gestion de la cybersécurité                   | Cybersecurity Management |
+| CR380 | Virtualisation                                | Virtualization Security |
+| CR460 | Infonuagique                                  | Cloud Security |
+| CR400 | Réseaux sans fil et appareils mobiles         | Wifi and Mobile Security |
+| CR410 | Gestion des identités et des accès            | Identity Access Management (IAM) |
+| CR420 | Services réseau avancés                       | Advanced Networking |
+| CR500 | Sécurité des systèmes de contrôle industriels | Security of Industrial Controls |
+| CR510 | Architecture des réseaux                      | Network Architecture |
+| CR520 | Intégration de la cybersécurité               | Integration |
+
+
 ## CyberSecurity - Operations and Analysis
 
 | Sigle | Name(fr)                                   | Name(en)                                     |
@@ -21,20 +37,6 @@ This is the most serious bachelor in cybersecurity in my area, some may touch th
 | CR470 | Tests d'intrusion                          | Penetration Testing                          |
 | CR480 | Enquête de piratage informatique avancée   | Advanced Hacking Investigation               |
 
-## CyberSecurity - Architecture and Management
-| Sigle | Name(fr)                                      | Name(en)                                     |
-|:----- |:--------------------------------------------- | :------------------------------------------- |
-| CF170 | Gestion de risques de l'information           | Information Risk Management |
-| CR320 | Gouvernance de la cybersécurité               | Cybersecurity Governance |
-| CR335 | Gestion de la cybersécurité                   | Cybersecurity Management |
-| CR380 | Virtualisation                                | Virtualization Security |
-| CR460 | Infonuagique                                  | Cloud Security |
-| CR400 | Réseaux sans fil et appareils mobiles         | Wifi and Mobile Security |
-| CR410 | Gestion des identités et des accès            | Identity Access Management (IAM) |
-| CR420 | Services réseau avancés                       | Advanced Networking |
-| CR500 | Sécurité des systèmes de contrôle industriels | Security of Industrial Controls |
-| CR510 | Architecture des réseaux                      | Network Architecture |
-| CR520 | Intégration de la cybersécurité               | Integration |
 
 ## Mapping CISSP -> Poly
 
