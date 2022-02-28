@@ -40,36 +40,3 @@ This is the most serious bachelor for cybersecurity expertise in my area and pro
 
 ## Mapping CISSP -> Poly
 
-
-## Other Diplomas and Certifications
-
-### IT Management and Governance
-- OCEG Certified GRC Professional (GRCP)
-- TOGAF 9.2 Certified
-- COBIT 2019
-- ITIL v3 2011 Foundation
-
-### Project Management
-- Project Management Institute: CAPM (Upgrade to PMP Summer 2022)
-- Scrum PSM I & II
-- Scrum Kanban
-
-### Technical Infrastructure
-- Vmware (v7: Profesionnal and Advanced Professionnal)
-- Amazon Web Services
-- NetApp Storage
-- Applied Computer Science Certificate (Univeristy of Montreal)
-
-### Cybersecurity 
-**Upcoming**:
-- ISC2: cissp
-- ISACA: cism, crisc, cisa
-- GIAC
-
-### Data Science/Business Analytics
-- Business Analytics Certificate (HEC - University of Montreal)
-- Harvard Data Science Professional Certificate
-- MIT Computational Thinking Using Python
-- IBM Deep Learning Professional Certificate
-- IVADO/MILA Introduction to Deep Learning
-- ~10 programs on Data Camp (ML Engineer with Python, R, etc.)
